@@ -66,9 +66,7 @@ export default function LargeNewsBox({ post }) {
                   </Link>
                 </div> */}
                 <div className="xl:hidden flex justify-center items-center  pt-4 col-span-3">
-                  <p className="text-sm ">
-                    {description.substring(0, 130)}...
-                  </p>
+                  <p className="text-sm ">{description.substring(0, 130)}...</p>
                 </div>
                 <div className="hidden xl:flex capitalize  font-semibold font-serif col-span-3 text-lg lg:text-xl xl:text-2xl  hover:text-red-600 py-4">
                   <Link href={"/article/" + slug.current}>

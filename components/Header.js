@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Burger from "../public/menu.svg";
-import Logo from "../public/pawprint.png";
+import Logo from "../public/logo.png";
 import Search from "../public/searchIcon.svg";
 import Link from 'next/link'
 
@@ -32,7 +32,7 @@ export default function Header({handleClick}) {
         <div className="flex justify-center items-center">
           <Link href="/">
             <a>
-              <Image src={Logo} width={150} height={75} />
+              <Image src={Logo} width={100} height={100} />
             </a>
           </Link>
         </div>

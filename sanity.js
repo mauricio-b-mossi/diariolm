@@ -11,7 +11,7 @@ const config = {
   //   dataset: process.env.NEXT_PUBLIC_SANITY_DATASET || "production",
   dataset: "production",
   //   projectId: process.env.NEXT_PUBLIC_SANITY_PROJECT_ID,
-  projectId: "42bbazfz",
+  projectId: "p6kjmd50",
   //   useCdn: process.env.NODE_ENV === "production",
   useCdn: process.env.NODE_ENV === "production",
   /**

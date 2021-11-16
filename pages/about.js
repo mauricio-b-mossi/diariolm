@@ -1,7 +1,7 @@
 import React from 'react'
 import NavBar from "../components/NavBar";
 import Image from "next/image";
-import Logo from '../public/pawprint.png'
+import Logo from '../public/logo.png'
 import Head from 'next/head'
 
 

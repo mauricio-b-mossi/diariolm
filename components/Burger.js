@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from "next/image";
 import Cancel from "../public/cancel.svg";
-import Logo from "../public/pawprint.png";
+import Logo from "../public/logo.png";
 import Search from "../public/searchIcon.svg";
 import { motion } from "framer-motion";
 import Link from "next/link";
@@ -24,7 +24,7 @@ export default function Burger({handleClick}) {
             </Link>
             <Link href="/">
               <a>
-                <Image src={Logo} width={150} height={75} />
+                <Image src={Logo} width={75} height={75} />
               </a>
             </Link>
             <div className="my-auto">
