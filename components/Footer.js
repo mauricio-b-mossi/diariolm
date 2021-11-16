@@ -4,7 +4,7 @@ import Image from "next/image";
 import Arrow from '../public/blackSmallArrow.svg'
 
 export default function Footer() {
-  const text = "Sign up to The Pawprint's newsletter";
+  const text = "Sign up to The Diario's newsletter";
   return (
     <div className="bg-blue-900 text-white over overflow-x-hidden flex justify-center items-center  ">
       <div className="max-w-7xl border-r border-l border-gray-500">

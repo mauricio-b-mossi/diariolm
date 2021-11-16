@@ -39,13 +39,7 @@ export default function about() {
               </h1>
               <div className="py-8 text-sm md:text-base  font-serif">
                 <p>
-                  The Paw Print is the student-run newspaper of ABC. It provides
-                  a forum for students, faculty, and members of the local ABC
-                  community to share their research, artwork, travel
-                  experiences, political opinions, and much more. Letters to the
-                  editor and guest columnists are encouraged but are subject to
-                  editing for reasons of clarity, space, accuracy, and good
-                  taste
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque fugiat labore vero at, perferendis et odit aut consequuntur aperiam aspernatur totam beatae autem maiores culpa, ea ad! Ex, sunt error!
                 </p>
               </div>
             </div>
@@ -57,12 +51,7 @@ export default function about() {
               </h1>
               <div className="py-8 text-sm md:text-base  font-serif">
                 <p>
-                  “Our mission is to provide the most reliable, accurate, and
-                  interesting information to the students, faculty, staff, and
-                  surrounding community of the ABC. We hope to awaken in the
-                  students the habit of reading through interesting and relevant
-                  information created by someone they can relate to, developing
-                  as well, a sense of belongingness.”
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia adipisci nostrum aspernatur consectetur aliquam? Ut dolore accusamus optio natus excepturi dolor placeat fugiat explicabo, asperiores recusandae! Numquam perferendis voluptatum nulla.
                 </p>
               </div>
             </div>

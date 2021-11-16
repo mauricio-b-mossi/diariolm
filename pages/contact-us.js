@@ -23,26 +23,27 @@ export default function contactUs() {
         </div>
         {/* <div className="text-3xl md:text-4xl ">Hi there.</div> */}
         <div className="text-lg md:text-xl lg:text-2xl font-light max-w-lg  text-center">
-          If you want to announce something like an event, CAS Project, or
-          after-school -do not submit the form, email us directly.
+          {/* If you want to announce something like an event, CAS Project, or
+          after-school -do not submit the form, email us directly. */}
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum vero culpa doloribus voluptas dignissimos vel voluptates maiores nihil.
         </div>
         <div className="flex flex-col sm:flex-row justify-between items-center max-w-lg w-full">
-          <Link href="mailto:thepawprint@abc-net.edu.sv">
+          <Link href="mailto:mauricio.b.mossi@gmail.com">
             <a>
               <div className="flex flex-col justify-center items-center py-8 ">
                 <Image src={Email} width="100" height="100" layout="fixed" />
                 <p className="italic text-blue-700 hover:text-red-700">
-                  thepawprint@abc-net.edu.sv
+                  mauricio.b.mossi@gmail.com
                 </p>
               </div>
             </a>
           </Link>
-          <Link href="https://www.instagram.com/thepawprintabc/">
+          <Link href="https://www.instagram.com/m.mossi/">
             <a>
               <div className="flex flex-col justify-center items-center py-8 ">
                 <Image src={Insta} width="100" height="100" layout="fixed" />
                 <p className="italic text-blue-700 hover:text-red-700">
-                  @thepawprintabc
+                  @m.mossi
                 </p>
               </div>
             </a>

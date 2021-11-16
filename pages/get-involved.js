@@ -32,16 +32,16 @@ export default function getInvolved({ getInvolved }) {
                 Here you can find our google forms etc.
               </div>
               <div className="grid grid-cols-2 gap-4 w-full pt-8">
-                <Link href="https://docs.google.com/forms/d/e/1FAIpQLSfHD5IisKGjxXaz-Pl_atGsRgRs7e3I7Mc-FD8LagmrQ27z0Q/viewform?usp=sf_link">
+                {/* <Link href="https://docs.google.com/forms/d/e/1FAIpQLSfHD5IisKGjxXaz-Pl_atGsRgRs7e3I7Mc-FD8LagmrQ27z0Q/viewform?usp=sf_link"> */}
                   <a className="button1 bouncy uppercase text-sm  sm:text-base">
                     Join the Team
                   </a>
-                </Link>
-                <Link href="https://docs.google.com/forms/d/e/1FAIpQLScDEYjbdbqWNgbrxxo-5jsYcZ9xNCQCsrc5vOkj7X-4Rtiiug/viewform?usp=sf_link">
+                {/* </Link> */}
+                {/* <Link href="https://docs.google.com/forms/d/e/1FAIpQLScDEYjbdbqWNgbrxxo-5jsYcZ9xNCQCsrc5vOkj7X-4Rtiiug/viewform?usp=sf_link"> */}
                   <a className="button1 bouncy uppercase text-sm sm:text-base">
                     Submit your Work
                   </a>
-                </Link>
+                {/* </Link> */}
               </div>
             </div>
             <div className="overflow-x-hidden max-w-xs md:max-w-md lg:max-w-lg mx-auto w-full h-full md:h-auto">
