@@ -29,7 +29,7 @@ export default function Slug({ post }) {
   return (
     <div>
       <Head>
-        <title>{ title} | Pawprint</title>
+        <title>{title} | Diario</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <NavBar />
@@ -50,12 +50,12 @@ export default function Slug({ post }) {
             </Link>
           </div>
           <div className="flex justify-around items-center border-t border-b border-black p-2 md:col-span-2">
-            <Link href="https://www.instagram.com/thepawprintabc/">
+            <Link href="https://www.instagram.com/m.mossi/">
               <a>
                 <Image src={Insta} width="20" height="20" />
               </a>
             </Link>
-            <Link href="mailto:thepawprint@abc-net.edu.sv">
+            <Link href="mailto:mauricio.b.mossi@gmail.com">
               <a>
                 <Image src={Email} width="20" height="20" />
               </a>

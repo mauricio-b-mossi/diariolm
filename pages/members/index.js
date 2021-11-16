@@ -12,7 +12,7 @@ export default function index({ authors }) {
     const page = " page!";
     const link = "Get Involved";
     const bodyText =
-      "Special thanks to all the writers that make Paw Print possible. If you're interested in becoming a Paw Print writer, please check the ";
+      "Special thanks to all the writers that make Diario possible. If you're interested in becoming a Diario writer, please check the ";
     const information = {
       title: "Special Thanks Writers!",
       description: (
@@ -29,7 +29,7 @@ export default function index({ authors }) {
   return (
     <div>
       <Head>
-        <title>Writers | Pawprint</title>
+        <title>Writers | Diario</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <NavBar />

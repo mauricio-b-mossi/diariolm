@@ -14,7 +14,7 @@ export default function PopCulture({ Sports, Section }) {
     <div>
       <NavBar />
       <Head>
-        <title>Sports | Pawprint</title>
+        <title>Sports | Diario</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <div className="flex flex-col justify-center items-center">

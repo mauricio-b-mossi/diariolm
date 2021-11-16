@@ -8,7 +8,7 @@ export default function SpecialEditions() {
     return (
       <div>
         <Head>
-          <title>Special Editions | Pawprint</title>
+          <title>Special Editions | Diario</title>
           <meta
             name="viewport"
             content="initial-scale=1.0, width=device-width"

@@ -14,7 +14,7 @@ export default function getInvolved({ getInvolved }) {
     return (
       <div>
         <Head>
-          <title>Get Involved | Pawprint</title>
+          <title>Get Involved | Diario</title>
           <meta
             name="viewport"
             content="initial-scale=1.0, width=device-width"

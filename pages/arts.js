@@ -14,7 +14,7 @@ export default function Arts({ Art, Section }) {
     <div>
       <NavBar />
       <Head>
-        <title>Arts | Pawprint</title>
+        <title>Arts | Diario</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <div className="flex flex-col justify-center items-center">

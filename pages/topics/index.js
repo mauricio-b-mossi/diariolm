@@ -13,7 +13,7 @@ export default function index({ categories }) {
    const page = " page!";
    const link = "Get Involved";
   const bodyText =
-    "Explore the wide variety of topics that Paw Print has to offer.  If you're interested in helping us cover more topics, please check the ";
+    "Explore the wide variety of topics that Diario has to offer.  If you're interested in helping us cover more topics, please check the ";
    const information = {
      title: "Explore all our Topics",
      description: (

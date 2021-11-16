@@ -16,7 +16,7 @@ export default function news({ News, Section }) {
       <div>
         <NavBar />
         <Head>
-          <title>News | Pawprint</title>
+          <title>News | Diario</title>
           <meta
             name="viewport"
             content="initial-scale=1.0, width=device-width"

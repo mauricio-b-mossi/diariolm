@@ -13,7 +13,7 @@ export default function FoodAndTravel({ Food, Section }) {
   return (
     <div>
       <Head>
-        <title>Food and Travel | Pawprint</title>
+        <title>Food and Travel | Diario</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <NavBar />

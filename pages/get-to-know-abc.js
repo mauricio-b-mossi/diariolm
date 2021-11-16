@@ -10,7 +10,7 @@ export default function GetToKnowABC({teachers}) {
     // console.log(teachers);
 
     const information = {
-      title: "Get to know the ABC",
+      title: "Get to know the Diario",
       description:
         "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque dolorem architecto enim asperiores dignissimos officiis quod! Veniam tenetur perspiciatis expedita ab ad corporis, sapiente aspernatur cupiditate animi vel dolorum atque!",
     };

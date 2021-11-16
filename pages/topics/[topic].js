@@ -12,14 +12,14 @@ export default function Category({ category }) {
     const { title, image, description, posts } = category;
 
     const information = {
-      title: "Meet pawprint executives",
+      title: "Meet Diario executives",
       description:
         "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque dolorem architecto enim asperiores dignissimos officiis quod! Veniam tenetur perspiciatis expedita ab ad corporis, sapiente aspernatur cupiditate animi vel dolorum atque!",
     };
     return (
       <div id="figuresSVG" className="min-h-screen ">
         <Head>
-          <title>{ title } | Pawprint</title>
+          <title>{title} | Diario</title>
           <meta
             name="viewport"
             content="initial-scale=1.0, width=device-width"

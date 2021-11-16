@@ -11,9 +11,9 @@ export default function meetTheTeam({ members }) {
   const page = " page!"
   const link = "Get Involved"
   const bodyText =
-    "This is ABC Paw Print\'s organizing team, we are a group of passionate students with diverse interests! Click on the icons to learn a little bit more about each member. If you're interested in joining the team, please check the ";
+    "This is Diario\'s organizing team, we are a group of passionate students with diverse interests! Click on the icons to learn a little bit more about each member. If you're interested in joining the team, please check the ";
   const information = {
-    title: "Meet pawprint executives",
+    title: "Meet Diario executives",
     description: (
       <span>
         {bodyText}

@@ -8,7 +8,7 @@ export default function search({ posts}) {
     return (
       <div>
         <Head>
-          <title>Search | Pawprint</title>
+          <title>Search | Diario</title>
           <meta
             name="viewport"
             content="initial-scale=1.0, width=device-width"

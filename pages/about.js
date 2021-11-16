@@ -9,7 +9,7 @@ export default function about() {
     return (
       <div>
         <Head>
-          <title>About | Pawprint</title>
+          <title>About | Diario</title>
           <meta
             name="viewport"
             content="initial-scale=1.0, width=device-width"

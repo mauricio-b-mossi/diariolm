@@ -48,11 +48,9 @@ export default function Footer() {
         <div className="grid grid-cols-12 xl:border-t border-gray-500">
           <div className="col-span-12 xl:col-span-3 w-full  border-b border-t xl:border-t-0 border-gray-500 py-2 pb-12">
             <div className="max-w-xs px-4">
-              <h8 className="font-bold font-sans tracking-tight">
-                {text}
-              </h8>
+              <h8 className="font-bold font-sans tracking-tight">{text}</h8>
               <p className="text-sm py-1 border-t-2 border-blue-300 leading-tight">
-                Get the latest news and issues of The Pawprint.
+                Get the latest news and issues of The Diario.
               </p>
               <div className="w-56">
                 <input
@@ -105,7 +103,7 @@ export default function Footer() {
                   <h8 className="py-1 hover:text-red-700">All writers</h8>
                 </a>
               </Link>
-              <Link href="https://www.instagram.com/thepawprintabc/">
+              <Link href="https://www.instagram.com/m.mossi/">
                 <a>
                   <h8 className="py-1 hover:text-red-700">Instagram</h8>
                 </a>
@@ -123,7 +121,7 @@ export default function Footer() {
             </div>
             <div className="flex flex-col w-full lg:border-l lg:border-gray-500">
               <h8 className="text-xl font-bold font-sans text-red-700  border-gray-500 border-t xl:border-t-0">
-                Support Pawprint
+                Support Diario
               </h8>
               <p>
                 Available for everyone, maintained by students just like you.
