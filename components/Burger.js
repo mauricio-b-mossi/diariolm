@@ -24,7 +24,7 @@ export default function Burger({handleClick}) {
             </Link>
             <Link href="/">
               <a>
-                <Image src={Logo} width={75} height={75} />
+                <Image src={Logo} width={50} height={50} />
               </a>
             </Link>
             <div className="my-auto">
